@@ -2,6 +2,12 @@
     <img alt="Netflix" title="#Netflix" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png" />
 </h1>
 
+<p align="center">
+  <img alt="Develop by" src="https://img.shields.io/badge/Develop%20by-Jean%20Mendes-blue?style=flat&logo=Awesome-Lists">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jrmg55555/netflix?color=informational&style=flat&logo=GitHub-Actions">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jrmg55555/netflix?color=important&style=flat&logo=JavaScript">
+<p>
+
 ## 💻 Sobre o projeto
 
 🎞 Netflix - Esse projeto foi desenvolvido na live do Bonieky Lacerda oferecida pela B7Web. Básicamente o projeto constitue da página inicial do Netflix, onde possa ver o filme em destaques, os filmes recomendados para você, séries e muitos outros gêneros.
@@ -46,9 +52,9 @@ $ npm run start # ou yarn start (caso você tenha o yarn instalado)
 4. Envie as suas alterações: `git push origin my-feature`
    > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-## 📝 Licença
+---
 
-Feito com ❤️ por Jean Mendes
+Feito com ❤️ por <a href="https://github.com/jrmg55555" target="_blank" rel="noopener">Jean Mendes</a>
 
 [nodejs]: https://nodejs.org/
 [reactjs]: https://reactjs.org
